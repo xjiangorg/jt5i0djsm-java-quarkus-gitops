@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jt5i0djsm-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/jt5i0djsm-java-quarkus-gitops
